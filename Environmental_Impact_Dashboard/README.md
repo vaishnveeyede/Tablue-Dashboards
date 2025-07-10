@@ -55,14 +55,6 @@ This project presents an interactive Tableau dashboard designed to analyze envir
 
 ---
 
-## 📸 Screenshots
-
-**Dashboard Overview**  
-![Dashboard Overview](Images/Screenshot 1.png)
-
-
----
-
 ## 👩‍💻 Author
 
 **Vaishnvee Yede**  
