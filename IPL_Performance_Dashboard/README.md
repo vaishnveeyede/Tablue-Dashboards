@@ -83,5 +83,5 @@ July 2025
 
 ## 📸 Dashboard Preview
 
-![IPL Performance Dashboard](images/Screenshot%202025-07-10%20115013.png)
+![IPL Performance Dashboard](Screenshot 2025-07-10 115013.png)
 
